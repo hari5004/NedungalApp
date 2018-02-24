@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">Nedungal</string>
+    <string-array name="stars">
+        <item name="ashvini">അശ്വതി</item>
+        <item name="bharani">ഭരണി</item>
+        <item name="karthika">കാർത്തിക	</item>
+
+        <item name="rohini">രോഹിണി</item>
+        <item name="makayiram">മകയിരം</item>
+        <item name="thiruvathira">തിരുവാതിര</item>
+        <item name="punartham">പുണർതം		</item>
+
+        <item name="pooyam">പൂയം</item>
+        <item name="ayilyam">ആയില്യം</item>
+        <item name="makam">മകം </item>
+        <item name="pooram">	പൂരം</item>
+
+        <item name="utram">ഉത്രം</item>
+        <item name="attam">അത്തം</item>
+        <item name="chittira">ചിത്തിര</item>
+        <item name="chothi">ചോതി	</item>
+
+        <item name="vishakham">വിശാഖം</item>
+        <item name="anizham">അനിഴം</item>
+        <item name="triketta">തൃക്കേട്ട</item>
+        <item name="moolam">മൂലം	</item>
+
+
+        <item name="puradam">പൂരാടം	</item>
+        <item name="utradam">ഉത്രാടം</item>
+        <item name="thiruonam">തിരുവോണം</item>
+        <item name="avittam">അവിട്ടം	</item>
+
+        <item name="chatayam">ചതയം</item>
+        <item name="pururtathi">പൂരുരുട്ടാതി	</item>
+        <item name="uthratathi">ഉത്രട്ടാതി	</item>
+        <item name="revathi">രേവതി	</item>
+    </string-array>
+
+    <string-array name="vazhipadu">
+        <item>ഒരു പാട്ട എണ്ണ</item>
+        <item>അര പാട്ട എണ്ണ </item>
+        <item>ചന്ദനം ചാർത്തു</item>
+        <item>ദീപാരാധന </item>
+        <item>ഉത്സവബലി </item>
+        <item>ചുറ്റുവിളക്ക്  </item>
+        <item>ആനച്ചമയം </item>
+        <item>അഹസ്</item>
+        <item>അഹസിൽ പങ്ക്</item>
+        <item>അന്നദാനം </item>
+        <item>അന്നദാനം ഒറ്റക്ക്</item>
+        <item>ഗണപതി ഹോമം </item>
+        <item>കലശം </item>
+    </string-array>
+    <string name="nav_history">ബുക്ക് ചെയ്ത വഴിപാട് </string>
+    <string name="title_activity_booking">വഴിപാട് ബുക്ക് ചെയുക </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
